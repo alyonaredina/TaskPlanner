@@ -45,4 +45,8 @@ public class Todos {
         return result;
     }
 
+    public Task[] addToArray() {
+        return tasks;
+    }
+
 }

@@ -5,10 +5,12 @@ public abstract class Task {
 
 
     public Task(int id) {
+
         this.id = id;
     }
 
     public int getId() {
+
         return id;
     }
 
